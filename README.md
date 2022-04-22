@@ -25,9 +25,8 @@
 <br/>
 
 
-## 🛠️ 사용 기술 및 라이브러리
+## 🛠️ 사용 라이브러리
 
-- Kotlin, Android
 - Retrofit2
 - Glide
 - ExoPlayer
