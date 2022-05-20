@@ -10,12 +10,13 @@
 
 <div align="center">
   
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e0cd33a-6bca-4160-83e9-7afc09122e03/Screenshot_1624930452.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T005123Z&X-Amz-Expires=86400&X-Amz-Signature=9817b73162c048ef40aee26f318e3bd61b357db15b98512672a405917f93eb84&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1624930452.png%22&x-id=GetObject" width="35%" >
+<img src="https://user-images.githubusercontent.com/78194843/169425909-0f8931ff-ef5b-49e4-851d-be93d46f160a.png" width="35%" >
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/726bb1c2-d0ae-4d92-9d3b-a442d2e5862d/Screenshot_1624930460.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T005948Z&X-Amz-Expires=86400&X-Amz-Signature=947f80be2f836f2e8a071e6f6784911f99146481899633432f75b77898157d34&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1624930460.png%22&x-id=GetObject" width="35%" >
+<img src="https://user-images.githubusercontent.com/78194843/169425919-2f56ec6b-ec60-4398-bfde-197623fff04a.png" width="35%" >
 </div>
+
 <div align="center">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b2e5223-30f8-4623-bd2b-d73c80c05088/%EC%9D%8C%EC%95%85_%EC%95%B1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T010013Z&X-Amz-Expires=86400&X-Amz-Signature=53e9a2a3878cc74b57b6fc6d710a15cdb71ae757b2de5ed83ba1571f7c822c84&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%259D%258C%25EC%2595%2585%2520%25EC%2595%25B1.gif%22&x-id=GetObject" width="37%" >
+<img src="https://user-images.githubusercontent.com/78194843/169425927-11a83989-f711-4e52-a71e-3221605be2e7.gif" width="100%" >
 </div>
 
 <br/>
